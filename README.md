@@ -2,7 +2,7 @@
 
 A simple and intuitive Todo List application built with React and Redux Toolkit, with data persistence using local storage. Manage your tasks efficiently with the ability to add, edit, delete, and toggle completion status.
 
-![UI Preview](path_to_your_image) 
+![UI Preview](src/assets/capture.png)
 
 ## Features
 
